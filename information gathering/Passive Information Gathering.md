@@ -1,0 +1,4 @@
+## Whois Enumeration
+_Whois_[1](https://portal.offsec.com/courses/pen-200/books-and-videos/modal/modules/information-gathering/passive-information-gathering/whois-enumeration#fn1) is a TCP service, tool, and type of database that can provide information about a domain name, such as the _name server_[2](https://portal.offsec.com/courses/pen-200/books-and-videos/modal/modules/information-gathering/passive-information-gathering/whois-enumeration#fn2) and _registrar_.[3](https://portal.offsec.com/courses/pen-200/books-and-videos/modal/modules/information-gathering/passive-information-gathering/whois-enumeration#fn3) This information is often public, since registrars charge a fee for private registration.
+
+example :whois megacorpone.com -h 192.168.50.251
